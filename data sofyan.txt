@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance mod 1","desc":"One of the first steps in the Amanda Game is creating your character. While aesthetics play a role in the game, it's essential to consider the gameplay implications as well. Choosing the right character class and abilities can significantly impact your overall gameplay experience. ","photo":"https://iili.io/HUuVFQR.jpg"},
+  {"title":"how to use this app 2","desc":"One of the first steps in the Amanda Game is creating your character. While aesthetics play a role in the game, it's essential to consider the gameplay implications as well. Choosing the right character class and abilities can significantly impact your overall gameplay experience. ","photo":"https://iili.io/HUuV3hv.jpg"},
+  {"title":"helper pack 3","desc":"Quests form the backbone of the Amanda Game narrative and provide both entertainment and rewards. To efficiently complete quests, make sure to read the quest descriptions carefully, paying attention to any hints or instructions provided.","photo":"https://iili.io/HUuVqEN.jpg"},
+  {"title":"advice mod 4","desc":"Combat in the Amanda Game requires a strategic approach rather than mere button-mashing. Understanding your character's abilities, strengths, and weaknesses is vital. Take the time to master the combat mechanics, including blocking, dodging, and timing your attacks. ","photo":"https://iili.io/HUuVfBp.jpg"},
+  {"title":"tips pack 5","desc":"Combat in the Amanda Game requires a strategic approach rather than mere button-mashing. Understanding your character's abilities, strengths, and weaknesses is vital. Take the time to master the combat mechanics, including blocking, dodging, and timing your attacks. ","photo":"https://iili.io/HUuVB4I.jpg"},
+  {"title":"how to use this app 6","desc":"The Amanda Game provides opportunities for socializing and cooperative play with other players. Engaging with the community can enhance your gaming experience, as you can share tips, strategies, and even form alliances for difficult quests or challenges.","photo":"https://iili.io/HUuVn2t.jpg"},
+  {"title":"advance mod 7","desc":"The Amanda Game is continually evolving, with developers releasing updates, expansions, and new content. To stay ahead and make the most of your gameplay, be open to learning and adapting to changes.","photo":"https://iili.io/HUuVoYX.jpg"},
+  {"title":"helper pack 8","desc":"Keep an eye on official game forums, social media channels, and patch notes to stay informed about updates, bug fixes, and balance adjustments. Additionally, engage with the community to discuss strategies and gather insights that can enhance your gaming experience.","photo":"https://iili.io/HUuVxvn.jpg"}
    ]
  
 }
